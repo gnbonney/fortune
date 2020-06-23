@@ -6,12 +6,12 @@ Combines fortunes from BSD Unix minus the offensive categories plus extra catego
 
 ## To install
 ```js
-npm install gnbonney/fortune
+npm install random-fortune
 ```
 
 ## To use
 ```js
-const fortune = require('fortune')
+const fortune = require('random-fortune')
 
 const fortune = fortune.fortune()
 // or
