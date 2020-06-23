@@ -1,0 +1,21 @@
+{
+  "name": "random-fortune",
+  "version": "0.1.0",
+  "description": "Fortune for Node.js",
+  "main": "./lib/fortune.js",
+  "scripts": {
+    "postinstall": "node lib/convert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gnbonney/fortune"
+  },
+  "keywords": [
+    "fortune"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gnbonney/fortune/issues"
+  },
+  "homepage": "https://github.com/gnbonney/fortune"
+}
