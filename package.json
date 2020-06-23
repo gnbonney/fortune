@@ -1,6 +1,6 @@
 {
   "name": "random-fortune",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Fortune for Node.js",
   "main": "./lib/fortune.js",
   "scripts": {
